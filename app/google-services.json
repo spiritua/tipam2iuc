@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "783051985447",
+    "firebase_url": "https://ques-9a671.firebaseio.com",
+    "project_id": "ques-9a671",
+    "storage_bucket": "ques-9a671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783051985447:android:c8f9d0c32e13eb33",
+        "android_client_info": {
+          "package_name": "com.example.arnaudbt.ques"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783051985447-d2fqqb54vt80ahn4dp6b2t6b97aqh14h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1XK_8ZqDI5UceK-j7cOdjEg_1JIGbpKM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
