@@ -5,4 +5,8 @@
     <color name="colorAccent">#D81B60</color>
     <color name="greenBlack">#05c902</color>
     <color name="vert">#16de08</color>
+    <color name="grisSombre">#141514</color>
+    <color name="grisclaire">#a7a6a6</color>
+    <color name="blanc">#ffffff</color>
+    <color name="rouge">#f20611</color>
 </resources>
